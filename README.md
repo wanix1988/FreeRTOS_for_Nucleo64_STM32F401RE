@@ -48,7 +48,7 @@ Download from https://www.freertos.org.
 ## Build
 1. Open Project.uvprojx with Keil μVision 5
 2. Build
-   ···
+```
 Rebuild started: Project: Project
 *** Using Compiler 'V5.06 update 7 (build 960)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
 Rebuild target 'STM32F4xx-Nucleo'
@@ -87,7 +87,7 @@ Program Size: Code=13032 RO-data=468 RW-data=180 ZI-data=78196
 FromELF: creating hex file...
 "STM32F4xx-Nucleo\STM32F4xx-Nucleo.axf" - 0 Error(s), 0 Warning(s).
 Build Time Elapsed:  00:00:55
-   ···
+```
 
 ## Download Programm to flash memory
 Click the Load button on toolbar, download programm to flash memory
